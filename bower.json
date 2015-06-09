@@ -1,0 +1,19 @@
+{
+  "name": "ar-test",
+  "version": "0.0.0",
+  "authors": [
+    "Shin Usami <usa@ousia.jp>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "jquery": "~2.1.4",
+    "Processing.js": "~1.4.15"
+  }
+}
